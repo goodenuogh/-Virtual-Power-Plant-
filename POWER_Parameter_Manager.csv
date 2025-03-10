@@ -1,0 +1,5 @@
+-BEGIN HEADER-
+Parameter(s):
+WS2M,Wind Speed at 2 Meters
+ALLSKY_SFC_SW_DWN,All Sky Surface Shortwave Downward Irradiance
+T2M,Temperature at 2 Meters
